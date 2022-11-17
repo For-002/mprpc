@@ -1,0 +1,2 @@
+20-47-36: => [INFO]   Service running! /home/xl/mprpc/example/callee/userservice.cpp-main-43
+20-47-36: => [INFO]   Service running! /home/xl/mprpc/example/callee/userservice.cpp-main-44

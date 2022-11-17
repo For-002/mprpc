@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package mprpc;
+
+message RpcHeader
+{
+    uint32 args_size = 1;
+    bytes service_name = 2;
+    bytes method_name = 3;
+}
